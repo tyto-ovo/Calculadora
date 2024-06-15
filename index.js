@@ -1,5 +1,5 @@
 // programa de calculadora
-
+// aun no me funciona ya que el document aparece no definifo :'(
 const display = document.getElementById("display");
 
 function appendToDisplay(input) {
